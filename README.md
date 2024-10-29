@@ -1,9 +1,9 @@
-Name : ADARSH DODDIGARLA
-Company : CODTECH SOLUTIONS
-ID : CT08DS9265
-Domain : UI/UX DESIGN
-Duration : OCTOBER 15th, 2024 to NOVEMBER 15th, 2024.
-Mentor : 
+**Name :** ADARSH DODDIGARLA
+**Company :** CODTECH SOLUTIONS
+**ID :** CT08DS9265
+**Domain :** UI/UX DESIGN
+**Duration :** OCTOBER 15th, 2024 to NOVEMBER 15th, 2024.
+**Mentor :** 
 
 # My Portfolio
 
