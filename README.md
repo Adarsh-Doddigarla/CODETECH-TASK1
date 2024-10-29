@@ -26,9 +26,8 @@ Welcome to my portfolio! This project showcases my skills and projects as a Web 
   - **Contact**: A section for visitors to reach out for inquiries or collaboration.
 
 
-
-![Screenshot 2024-10-30 003535](https://github.com/user-attachments/assets/c6244548-4c08-4ff4-92fe-a6ada645a46d)
-![Screenshot 2024-10-30 003429](https://github.com/user-attachments/assets/fbcc2390-6cf4-4870-bbe9-9ca3ecbd590c)
-![Screenshot 2024-10-30 003410](https://github.com/user-attachments/assets/4420fcec-6a18-41d2-93df-0beebdd73d44)
-![Screenshot 2024-10-30 003343](https://github.com/user-attachments/assets/ad3e2853-410c-487e-9445-aa807a4e4015)
-![Screenshot 2024-10-30 003300](https://github.com/user-attachments/assets/ba1be0ed-a97b-4bb7-9de6-ca7a4bf968d0)
+![Screenshot 2024-10-30 003300](https://github.com/user-attachments/assets/37632250-058b-4413-9072-eabee7694172)
+![Screenshot 2024-10-30 003343](https://github.com/user-attachments/assets/a4ceb31a-0fc6-4030-88da-5444f8675578)
+![Screenshot 2024-10-30 003410](https://github.com/user-attachments/assets/aad15639-cdd0-442c-a60f-94af93c385a3)
+![Screenshot 2024-10-30 003429](https://github.com/user-attachments/assets/8833721e-46da-4110-b8a1-74a1a18fe662)
+![Screenshot 2024-10-30 003535](https://github.com/user-attachments/assets/2eb7690c-16d6-4110-9166-1e0a2bc8742e)
