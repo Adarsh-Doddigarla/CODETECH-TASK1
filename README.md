@@ -8,7 +8,9 @@
 # My Portfolio
 
 ## Introduction
-Welcome to my portfolio! This project showcases my skills and projects as a UI/UX Designer. It serves as a digital resume where you can explore my work and learn more about my experience.
+Welcome to my portfolio! This project showcases my personal portfolio website to showcase my work and skills in a visually
+appealing and user-friendly manner. Focusing on improving the layout, navigation, and
+visual design to create a professional and engaging user experience.
 
 ## Technologies Used
 - HTML
