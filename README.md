@@ -8,7 +8,7 @@
 # My Portfolio
 
 ## Introduction
-Welcome to my portfolio! This project showcases my skills and projects as a Web Developer, UI/UX Designer, and Software Developer. It serves as a digital resume where you can explore my work and learn more about my experience.
+Welcome to my portfolio! This project showcases my skills and projects as a UI/UX Designer. It serves as a digital resume where you can explore my work and learn more about my experience.
 
 ## Technologies Used
 - HTML
