@@ -25,11 +25,7 @@ Welcome to my portfolio! This project showcases my skills and projects as a Web 
   - **Skills**: Lists my technical skills in web development and design.
   - **Contact**: A section for visitors to reach out for inquiries or collaboration.
 
-## Installation
-To view my portfolio locally, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+
 
 ![Screenshot 2024-10-30 003535](https://github.com/user-attachments/assets/c6244548-4c08-4ff4-92fe-a6ada645a46d)
 ![Screenshot 2024-10-30 003429](https://github.com/user-attachments/assets/fbcc2390-6cf4-4870-bbe9-9ca3ecbd590c)
