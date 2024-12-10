@@ -34,4 +34,4 @@ visual design to create a professional and engaging user experience.
 ![Screenshot 2024-10-30 003429](https://github.com/user-attachments/assets/8833721e-46da-4110-b8a1-74a1a18fe662)
 ![Screenshot 2024-10-30 003535](https://github.com/user-attachments/assets/2eb7690c-16d6-4110-9166-1e0a2bc8742e)
 
-Link : https://adarsh-doddigarla.github.io/CODETECH-TASK1/
+Link : [https://adarsh-doddigarla.github.io/CODETECH-TASK1/](https://adarsh-doddigarla.github.io/Portfolio/)
